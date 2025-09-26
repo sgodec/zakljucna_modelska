@@ -1,6 +1,6 @@
 # Zakljucna naloga iz modelske analize 1
 Final project on random Network flows. 
-[Full report (PDF)](https://github.com/sgodec/zakljucna_modelska/blob/main/simon_godec_modelska_zakljucna.pdf))
+[Full report (PDF)](https://github.com/sgodec/zakljucna_modelska/blob/main/simon_godec_modelska_zakljucna.pdf)
 
 ## Visualizations
 
